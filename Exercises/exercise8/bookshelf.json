@@ -1,0 +1,34 @@
+{
+    "books": [
+        {
+            "title": "Clean Architecture: A Craftsman's Guide to Software Structure and Design",
+            "publishedYear": 2017,
+            "numberOfPages": 432,
+            "authors": ["Robert C. Martin"]
+        },
+        {
+            "title": "The Pragmatic Programmer: Your Journey to Mastery",
+            "publishedYear": 1999,
+            "numberOfPages": 352,
+            "authors": ["Andrew Hunt", "David Thomas"]
+        },
+        {
+            "title": "Code Complete: A Practical Handbook of Software Construction",
+            "publishedYear": 1993,
+            "numberOfPages": 960,
+            "authors": ["Steve McConnell"]
+        },
+        {
+            "title": "The Mythical Man-Month: Essays on Software Engineering",
+            "publishedYear": 1975,
+            "numberOfPages": 322,
+            "authors": ["Frederick P. Brooks Jr."]
+        },
+        {
+            "title": "Head First Design Patterns: A Brain-Friendly Guide",
+            "publishedYear": 2004,
+            "numberOfPages": 694,
+            "authors": ["Eric Freeman", "Elisabeth Robson", "Bert Bates", "Kathy Sierra"]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+<BookShelf>
+    <Book>
+        <title>Java Programming</title>
+        <publishedYear>2022</publishedYear>
+        <numberOfPages>400</numberOfPages>
+        <authors>
+            <author>John Doe</author>
+            <author>Jane Smith</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Clean Code: A Handbook of Agile Software Craftsmanship</title>
+        <publishedYear>2008</publishedYear>
+        <numberOfPages>464</numberOfPages>
+        <authors>
+            <author>Robert C. Martin</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Introduction to Algorithms</title>
+        <publishedYear>1990</publishedYear>
+        <numberOfPages>1312</numberOfPages>
+        <authors>
+            <author>Thomas H. Cormen</author>
+            <author>Charles E. Leiserson</author>
+            <author>Ronald L. Rivest</author>
+            <author>Clifford Stein</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Code: The Hidden Language of Computer Hardware and Software</title>
+        <publishedYear>1999</publishedYear>
+        <numberOfPages>400</numberOfPages>
+        <authors>
+            <author>Charles Petzold</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Cracking the Coding Interview</title>
+        <publishedYear>2008</publishedYear>
+        <numberOfPages>687</numberOfPages>
+        <authors>
+            <author>Gayle Laakmann McDowell</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>Design Patterns: Elements of Reusable Object-Oriented Software</title>
+        <publishedYear>1994</publishedYear>
+        <numberOfPages>416</numberOfPages>
+        <authors>
+            <author>Erich Gamma</author>
+            <author>Richard Helm</author>
+            <author>Ralph Johnson</author>
+            <author>John Vlissides</author>
+        </authors>
+    </Book>
+</BookShelf>
